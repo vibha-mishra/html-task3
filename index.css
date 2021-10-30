@@ -1,0 +1,216 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+
+  background-color: #4c6c4c;
+}
+.container {
+  /* background-color: white; */
+  display: flex;
+}
+.leftContainer {
+  max-width: 50%;
+}
+.leftContainerBox {
+}
+.leftContainerBoxContent {
+  background-color: white;
+  margin: 45px;
+  padding: 30px;
+  line-height: 1.8em;
+}
+.leftContainerBoxContentHeading {
+  font-size: 20px;
+  font-weight: bold;
+  color: lightgreen;
+  text-align: center;
+}
+.leftContainerHeading {
+  /* color: lightgreen; */
+}
+.leftContainerBoxContentText {
+  color: blue;
+}
+.leftContainerBoxContentButton {
+  text-align: center;
+}
+.meerInfoBtn {
+  color: white;
+  background-color: blue;
+  border-radius: 5px;
+  border: none;
+  padding: 15px;
+  width: 10rem;
+}
+.rightContainer {
+}
+.rightContainerBox {
+  display: flex;
+  flex-wrap: wrap;
+}
+.rightConatinerBoxCard {
+  margin: 5px;
+  background-color: black;
+  /* border-radius: 19px; */
+}
+.rightContainerBoxCardIn {
+  margin: 5px;
+  /* margin-top: -19px; */
+}
+.rightContainerBoxCardInHeading {
+  color: white;
+  background-color: lightblue;
+  /* align-items: center; */
+  width: 150px;
+  /* height: 50px; */
+  /* font-size: 30px; */
+  font-weight: bold;
+  /* align-items: center; */
+  /* padding: 0rem; */
+  /* justify-content: space-around; */
+  /* width: 11rem; */
+  /* height: 2rem; */
+  padding: 15px;
+}
+.rightContainerBoxCardInHeadingText {
+  /* color: white;
+  background-color: lightblue;
+  /* align-items: center; */
+  /* width: 150px; */
+  /* height: 50px; */
+  /* font-size: 30px; */
+  /* font-weight: bold; */
+  /* align-items: center; */
+  /* padding: 0rem; */
+  /* justify-content: space-around; */
+  /* width: 11rem; */
+  /* height: 2rem; */
+  /* padding: 15px;  */
+}
+.rightContainerBoxCardInImgCont {
+}
+.rightContainerBoxCardInImg {
+  width: 5rem;
+}
+.rightContainerBoxInCardInBtns {
+}
+.rightContainerBoxInCardInBtn {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.kopenButton {
+  /* display: block; */
+  background-color: #4c6c4c;
+  border: none;
+  width: 100%;
+  height: 35px;
+  color: wheat;
+  border-radius: 8px;
+  margin: 10px;
+}
+.abnonnerenButton {
+  width: 100%;
+  height: 35px;
+  background-color: blue;
+  border: none;
+  border-radius: 8px;
+  color: white;
+}
+
+/* .card {
+  background: white;
+
+  padding: 20px;
+  margin-bottom: 15px;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+}
+.card1 {
+  background: lightblue;
+  color: #fff;
+
+  padding: 15px;
+  font-size: 30px;
+  font-weight: lighter;
+  font-family: sans-serif;
+
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+h3 {
+  text-align: center;
+}
+
+#Box-2 {
+  float: left;
+  width: 35%;
+}
+#Box-3 {
+  float: right;
+  width: 35%;
+}
+.btn1 {
+  margin: none;
+  position: absolute;
+  top: 460px;
+  left: 200px;
+  background: blue;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  width: 5cm;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+.btn11 {
+  margin: none;
+  position: absolute;
+  top: 415px;
+  left: 200px;
+  background: #4c6c4c;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  width: 5cm;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+.btn2 {
+  margin: none;
+  position: absolute;
+  top: 460px;
+  left: 820px;
+  background: blue;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  width: 5cm;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+.btn22 {
+  margin: none;
+  position: absolute;
+  top: 415px;
+  left: 820px;
+  background: #4c6c4c;
+  color: #fff;
+  border: none;
+  font-size: 16px;
+  width: 5cm;
+  padding: 10px 20px;
+  border-radius: 20px;
+  cursor: pointer;
+  text-align: center;
+}
+img {
+  display: block;
+  margin: auto;
+} */
